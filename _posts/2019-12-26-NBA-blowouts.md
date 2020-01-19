@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is it just me, or have there been a lot of 40-point blowouts in the NBA this season?
+toc: true
 ---
 
 I had a hunch that this year there have been more 40-point blowouts compared to the previous years. To look in to the data, I pulled game data from [basketball-reference.com](https://basketball-reference.com).
