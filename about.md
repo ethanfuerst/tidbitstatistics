@@ -10,6 +10,7 @@ Hello! My name is Ethan Fuerst. I'm a data analyst based out of Austin, TX. Outs
 
 [ethanfuerst@gmail.com](mailto:ethanfuerst@gmail.com)
 
+---
+
 This site was made by forking [jekyl-now by Barry Clark](https://github.com/barryclark/jekyll-now)
 
-![Jekyll logo](/images/jekyll-logo.png "Jekyll Logo")
