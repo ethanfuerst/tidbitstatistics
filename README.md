@@ -18,6 +18,5 @@ Forked from [jekyl-now by Barry Clark](https://github.com/barryclark/jekyll-now)
 
 - [x] logo
   - [ ] add favicon
-- [ ] mailchimp?
-  - [ ] I'm worried that every time I commit a change to a post it will send an email.
+- [x] mailchimp
 - [x] Google Analytics
