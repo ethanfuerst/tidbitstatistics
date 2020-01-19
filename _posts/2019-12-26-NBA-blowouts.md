@@ -33,7 +33,7 @@ Either way, I wanted to find the projected rate of 40-point blowouts this season
 
 Using the last 5 NBA seasons as a guide, we can expect the total number of 40-point blowouts this season to be between 18-21. This would be the most blowouts for a single season in the NBA since the ABA-NBA merger in 1976.
 
-**Count of 40-point blowouts since the '76 - '77 season**
+### Count of 40-point blowouts since the '76 - '77 season
 
 |Season|Count of 40-pt blowouts|
 |:-|-:|
