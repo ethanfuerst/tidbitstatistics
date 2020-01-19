@@ -8,7 +8,7 @@ Forked from [jekyl-now by Barry Clark](https://github.com/barryclark/jekyll-now)
 
 ### Write post
 
-- [ ] mpgdata
+- [x] mpgdata
 
 ### Finish analysis
 
@@ -16,8 +16,8 @@ Forked from [jekyl-now by Barry Clark](https://github.com/barryclark/jekyll-now)
 
 ## TODO
 
-- [ ] logo 
+- [ ] logo
   - [ ] add favicon
 - [ ] mailchimp?
   - [ ] I'm worried that every time I commit a change to a post it will send an email.
-- [ ] Google Analytics
+- [x] Google Analytics
