@@ -86,4 +86,8 @@ exclude:
   - README.md
   - CNAME
 
+favicon:
+  source: icon.png
+  path: /images
+
 theme: 
