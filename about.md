@@ -13,4 +13,3 @@ Hello! My name is Ethan Fuerst. I'm a data analyst based out of Austin, TX. Outs
 ---
 
 This site was made by forking [jekyl-now by Barry Clark](https://github.com/barryclark/jekyll-now)
-
