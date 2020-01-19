@@ -36,7 +36,7 @@ Using the last 5 NBA seasons as a guide, we can expect the total number of 40-po
 **Count of 40-point blowouts since the '76 - '77 season**
 
 |Season|Count of 40-pt blowouts|
-|:-|:-|
+|:-|-:|
 |'19 - '20 (Maximum projection)|21|
 |'19 - '20 (Minimum projection)|18|
 |'88 - '89|13|
