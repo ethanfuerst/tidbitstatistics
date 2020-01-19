@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Ethan Fuerst. I'm a data analyst based out of Austin, TX. Outside of work, I love to analyze and explore data on my own. This blog will showcase all the cool stuff in the data I've been digging in to lately.
 
 ### Contact me
 
