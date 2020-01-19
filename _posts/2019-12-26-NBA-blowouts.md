@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Is it just me, or have there been a lot of 40-point blowouts in the NBA this season?
 ---
 
