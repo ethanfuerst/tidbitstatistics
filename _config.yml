@@ -89,7 +89,7 @@ exclude:
   - CNAME
 
 include:
-  - _html
+  - html
 
 favicon:
   source: icon.png
