@@ -88,9 +88,6 @@ exclude:
   - README.md
   - CNAME
 
-include:
-  - html
-
 favicon:
   source: icon.png
   path: /images
