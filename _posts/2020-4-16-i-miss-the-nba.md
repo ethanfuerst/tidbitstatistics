@@ -75,7 +75,7 @@ I can't really explain how crazy this is, [you just need to watch it](https://ww
 
 ---
 
-### Who is the MVP this year?
+### And the 2019-20 NBA MVP goes to...
 
 The whole NBA season, it looked like Giannis had a firm grasp on the MVP. But LeBron has made a late push in the last few weeks of the season.
 
