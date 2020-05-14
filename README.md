@@ -6,13 +6,16 @@ Forked from [jekyl-now by Barry Clark](https://github.com/barryclark/jekyll-now)
 
 ## Future posts
 
-### Write post
-
-- [x] mpgdata
-
 ### Finish analysis
 
+- [ ] nba mvp
 - [ ] nba_vis points per attempt
+
+### Write post
+
+- [x] MPG Data
+- [x] iMDB part 1
+- [x] I miss the NBA
 
 ## TODO
 
