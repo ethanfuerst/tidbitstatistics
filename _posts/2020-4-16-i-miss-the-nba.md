@@ -61,7 +61,7 @@ We all knew that Zion was going to be a force in the paint after dominating at D
 
 ![Zion](/images/4-17-20-zion.png)
 
-There's a Wendys 4 for 4 joke in here somewhere. Zion's averaging 23.6 points on 29.7 minutes per game. [He's playing agressively on defense](https://www.youtube.com/watch?v=F_LiXpKanSo) and shooting 46.2% from 3. That's pretty much best case scenario for a 1st overall pick. I don't think he will win Rookie of the Year, (not a big enough sample size) but I can't wait to see what he accomplishes in his NBA career.
+There's a Wendy's 4 for 4 joke in here somewhere. Zion's averaging 23.6 points on 29.7 minutes per game. [He's playing aggressively on defense](https://www.youtube.com/watch?v=F_LiXpKanSo) and shooting 46.2% from 3. That's pretty much best case scenario for a 1st overall pick. I don't think he will win Rookie of the Year, (not a big enough sample size) but I can't wait to see what he accomplishes in his NBA career.
 
 ---
 
