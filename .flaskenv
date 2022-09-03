@@ -1,2 +1,2 @@
 FLASK_APP=app/tidbitstatistics.py
-FLASK_ENV=devlopment
+FLASK_ENV=production
