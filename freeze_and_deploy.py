@@ -34,7 +34,7 @@ if __name__ == "__main__":
         ".woff": "application/font-woff",
     }
 
-    def file_type(file):  # can't find a more pythonic way to do this
+    def file_type_finder(file):  # can't find a more pythonic way to do this
         if file.endswith(".css"):
             return "text/css"
         elif file.endswith(".js"):
@@ -48,7 +48,7 @@ if __name__ == "__main__":
         else:
             return ""
 
-    for file_name, file_type in {f: file_type(f) for f in all_files}.items():
+    for file_name, file_type in {f: file_type_finder(f) for f in all_files}.items():
         print(f'uploading {file_name} to {file_name.replace(BUILD_DIRECTORY, "")}')
         bucket.upload_file(
             file_name,
