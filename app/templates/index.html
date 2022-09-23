@@ -14,6 +14,8 @@
         <p>
             I&#39;m a Data/Software/Analytics/Engineering guy based out of NYC. I&#39;m currently at LeafLink as an Analytics Engineer.
             This website is meant to showcase some projects that I have worked on. Below is a bit about each project as well as GitHub links.
+            While I deal in data at work, most of my projects on my own time are some sort of software engineering.
+
         </p>
         
         <h2 id="projects">
@@ -26,6 +28,7 @@
                         <li>
                             This website was originally a Wordpress website held together by Bluehost.
                             I transitioned it over to a simple Flask app deployed on AWS because I didn&#39;t need much functionality and I was excited for the opportunity to learn about Web Development using Python.
+                            This site is now a static site hosted by AWS on S3. You can see the code for this site and how I compile this site as a static site <a href="https://github.com/ethanfuerst/tidbitstatistics"></a>here</a>.
                             If you can't already tell, design is not my strong suit and as I learn more about CSS I'll be updating this page!
                         </li>
                     </ul>
@@ -37,17 +40,10 @@
                     <ul>
                         <li>
                             Tidbyt App displaying 24-hour crypto price changes.
+                            A <a href="</a>"></a>Tidbyt</a> is an LED display that you can choose apps for to display data like subway times, weather or stock prices.
+                            When I first got a Tidbyt, I really liked the default stock tracker app but wished there was an app just like it for cryptocurrency.
+                            The developers of the Tidbyt have included a github repository where users can submit a PR with an app that they have created, so I made a cryptocurrency tracker app that looks just like the stock app.
                             This project was particularly fun because it gave me the opportunity to learn a new language (starlark) and contribute to an open source project.
-                        </li>
-                    </ul>
-            </li>
-        </ul>
-
-        <ul>
-            <li id="top-level-li"><a href="https://github.com/ethanfuerst/deal-or-no-deal">Deal or No Deal</a>
-                    <ul>
-                        <li>
-                            Text-based Deal or No Deal game. I enjoy playing board games, and I&#39;ve realized that I&#39;m interested in the underlying logic of how the game functions.
                         </li>
                     </ul>
             </li>
@@ -59,6 +55,19 @@
                         <li>
                             Ever been out with friends and the place you&#39;re at doesn&#39;t split checks?
                             It happens enough to me that I made a streamlit app to break everything up for me!
+                            I know there are some iOS apps out there that do similar things to this, but I'm kind of amazed no one has made one that OCRs receipts and then allows you to drag-and-drop the items to each person.
+                            Maybe that's my next project...
+                        </li>
+                    </ul>
+            </li>
+        </ul>
+
+        <ul>
+            <li id="top-level-li"><a href="https://github.com/ethanfuerst/deal-or-no-deal">Deal or No Deal</a>
+                    <ul>
+                        <li>
+                            Text-based Deal or No Deal game. I enjoy playing board games, and I&#39;ve realized that I&#39;m interested in the underlying logic of how the game functions.
+                            This is really simple, but one day I'm gonna come back to this and make it a lot more fun one day
                         </li>
                     </ul>
             </li>
@@ -75,6 +84,10 @@
                         </li>
                         <li>
                             The last one was a test run of sorts to see how quickly I could go from <a href="{{ url_for('bitcoin') }}">$BTC</a> price API access to Plotly dashboard.
+                        </li>
+                        <li>
+                            If any of these dashboards are currently down for you, it's because I'm moving them from being deployed on Heroku to AWS.
+                            You can see the code for these dashboards <a href="https://github.com/ethanfuerst?tab=repositories&q=plotly"></a>here</a>.
                         </li>
                     </ul>
             </li>
